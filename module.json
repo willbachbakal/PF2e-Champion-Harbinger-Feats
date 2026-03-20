@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "champion-harbinger-feats",
+  "title": "Champion Harbinger Feats",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A collection of Champion feats to let them make even greater use of their aura, in a similar style to the Battle Harbinger class archetype for the Cleric in Pathfinder Second Edition.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "champion-harbinger-feats",
+      "label": "Champion Harbinger Feats",
+      "path": "packs/champion-harbinger-feats",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/oL-yeyg2CvKE"
 }
